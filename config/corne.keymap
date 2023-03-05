@@ -55,7 +55,7 @@
 
         tst {
             bindings = <&ceshi>;
-            key-positions = <14 15 16 17 13 12>;
+            key-positions = <12 13>;
         };
 
         new_combo {
