@@ -60,7 +60,7 @@
 
         new_combo {
             bindings = <&kp LCTRL>;
-            key-positions = <24 25>;
+            key-positions = <24 25 26 27 28 29>;
         };
     };
 
