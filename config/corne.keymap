@@ -40,7 +40,7 @@
 
         tab {
             bindings = <&kp ESC>;
-            key-positions = <0 1 2 3 4 5>;
+            key-positions = <0 1>;
         };
 
         esc {
@@ -55,7 +55,7 @@
 
         tst {
             bindings = <&ceshi>;
-            key-positions = <12 13>;
+            key-positions = <12 13 36 37 38>;
         };
 
         new_combo {
